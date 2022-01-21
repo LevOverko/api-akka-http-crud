@@ -1,0 +1,3 @@
+[debug] Copy resource mappings: 
+[debug] 	(/home/overko/Рабочий стол/akka-http-crud-main/src/main/resources/application.conf,/home/overko/Рабочий стол/akka-http-crud-main/target/scala-2.12/classes/application.conf)
+[debug] 	(/home/overko/Рабочий стол/akka-http-crud-main/src/main/resources/logback.xml,/home/overko/Рабочий стол/akka-http-crud-main/target/scala-2.12/classes/logback.xml)
